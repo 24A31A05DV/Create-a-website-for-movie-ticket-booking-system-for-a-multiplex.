@@ -29,15 +29,15 @@ This project provides an online interface prototype to simplify movie browsing a
 - Browser – Google Chrome / Microsoft Edge
 
 ## 📂 Project Structure
-Movie-Ticket-Booking-System/
+Movie-Ticket-Booking-System
 │
-├── index.html
-├── login.html
-├── register.html
-├── movies.html
-├── seats.html
-├── style.css
-└── script.js
+├── 📄 index.html        # Home page
+├── 📄 login.html        # Login page
+├── 📄 register.html     # Registration page
+├── 📄 movies.html       # Movies listing page
+├── 📄 seats.html        # Seat selection page
+├── 🎨 style.css         # Styling
+└── ⚙️ script.js         # JavaScript logic
 
 ## ⚙️ Installation / Setup
 1. Download or clone the repository  
@@ -62,7 +62,7 @@ Movie-Ticket-Booking-System/
 - Booking confirmation screen (UI-based)  
 
 ## 🌐 Live Demo
-👉 https://24A31A05DV.github.io/movie-ticket-booking-system/
+👉 https://24A31A05DV.github.io/Create-a-website-for-movie-ticket-booking-system-for-a-multiplex/
 
 ## 🔮 Future Improvements
 - Backend integration (Node.js / Java / PHP)  
